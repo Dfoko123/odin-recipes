@@ -1,0 +1,27 @@
+body{
+    background-color: thistle;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color:red;
+}
+h2{
+    color: black;
+}
+h4{
+    color: blue;
+}
+p,li{
+    width: 50%;
+    font-size: 20px;
+}
+div{
+    margin: 12px;
+}
+a{
+    color: brown;
+    font-size: 20px;
+    margin-left: 12px;
+    border: 1px solid red;
+}
